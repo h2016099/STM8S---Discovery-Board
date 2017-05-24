@@ -1,1 +1,1 @@
-
+In this experiment, the objective is to design a LED pattern repeating infinitely using STM8S105C6 microcontroller, 4 LEDs and a tactile switch such that the first LED glows when the tactile switch is pressed for the first time, the second glows on the second press of the switch and so on till all the led glows. The pattern must repeat itself infinitely upon pressing the switch after 5 times.
