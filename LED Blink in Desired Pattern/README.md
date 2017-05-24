@@ -15,4 +15,3 @@ At the press of the switch, it was taking the input as several times, so we have
 ** Software Design**
 
 Used General Purpose Input Output (GPIO) function to control the input (tactile switch) and output i.e. LED’s by making use of Data Direction Register (DDR), Input Data Register (IDR), Output Data Register (ODR), and Control Register 1 (CR1).
-
