@@ -12,5 +12,12 @@ The voltage is varied using a Potentiometer and the variable voltage is provided
 
 ![image](https://cloud.githubusercontent.com/assets/25156625/26470422/40c631e6-41bb-11e7-97bf-8644683da7aa.png)
 
+**Critical Issues**
+
+•	Getting the LED ON for a particular voltage.
+
+•	Sending the converted data of 10 bits into a new register (Since STM8 operates only for 8 bits) which stores the converted Digital value which is used for comparison and drive the respective LEDs as pattern.
+
+
 
 
