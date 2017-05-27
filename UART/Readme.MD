@@ -19,3 +19,4 @@ clock sources (HSI, LSI). STM8 has 1 MHz internal clock source which can be furt
 Similarly we can connect an external clock source of up to 24 MHz. The actual source of master
 clock can be selected using CLK SWR register.
 
+
