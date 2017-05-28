@@ -32,3 +32,6 @@ values in BRR1 and BRR2 registers according to your master clock value.
 2. Configure the frame for 8 data bits and 1 stop bit.
 3. Set the baud rate registers.
 4. Enable the UART module.
+
+**Schematic**
+![image](https://cloud.githubusercontent.com/assets/25156625/26531516/5c98466c-4408-11e7-87d6-3ea0886d2b7f.png)
