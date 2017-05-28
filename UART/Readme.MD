@@ -34,4 +34,5 @@ values in BRR1 and BRR2 registers according to your master clock value.
 4. Enable the UART module.
 
 **Schematic**
+
 ![image](https://cloud.githubusercontent.com/assets/25156625/26531627/3e202252-440a-11e7-89d0-7997b867b7b7.png)
